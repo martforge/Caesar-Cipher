@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+
 # Caesar Cipher
 
 A Python implementation of the Caesar Cipher for encoding and decoding text. This project was part of the **Scientific Computing with Python** course from [FreeCodeCamp](https://www.freecodecamp.org/), specifically the *Learn String Manipulation by Building a Cipher* project.
