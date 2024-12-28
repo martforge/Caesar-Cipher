@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/martforge/Caesar-Cipher/blob/main/images/caesar-cipher-banner.jpg)" alt=”my banner”>
-
-</p>
+![Caesar Cipher Banner](https://github.com/martforge/Caesar-Cipher/blob/main/images/caesar-cipher-banner.jpg)
 
 # Caesar Cipher
 
@@ -21,4 +17,3 @@ The Caesar Cipher is a simple encryption technique that shifts each letter in th
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/Caesar-Cipher.git
-
